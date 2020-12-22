@@ -18,16 +18,16 @@ public class IncredibleCalculator {
             	//Aquí debería ir el código que realizaría la suma de los números escaneados.
                     break;
             case 2: 
-            	//Aquí debería ir el código que realizaría la resta de los números escaneados.
+            	
                     break;
             case 3:
-            	//Aquí debería ir el código que realizaría la multiplicación de los números escaneados.
+            	
                     break;
             case 4: 
-            	//Aquí debería ir el código que realizaría la división con números enteros de los números escaneados.
+            	
                     break;
             case 5: 
-            	//Aquí debería ir el código que realizaría la división con números decimales de los números escaneados.
+            	
                     break;
 
         }
