@@ -27,7 +27,7 @@ public class IncredibleCalculator {
             	//Aquí debería ir el código que realizaría la división con números enteros de los números escaneados.
                     break;
             case 5: 
-            	
+            	//Aquí debería ir el código que realizaría la división con números decimales de los números escaneados.
                     break;
 
         }
