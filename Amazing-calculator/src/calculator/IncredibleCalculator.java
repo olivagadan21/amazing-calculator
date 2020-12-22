@@ -18,7 +18,7 @@ public class IncredibleCalculator {
             	//Aquí debería ir el código que realizaría la suma de los números escaneados.
                     break;
             case 2: 
-            	
+            	//Aquí debería ir el código que realizaría la resta de los números escaneados.
                     break;
             case 3:
             	
